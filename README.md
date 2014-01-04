@@ -36,7 +36,7 @@ Sample Call
 		int color2 = Color.argb(255, 50, 255, 255);
 		pulleymenu = new anshul.pulleymenu.PulleyMenu(this,R.layout.activity_topmenu,menuview,color1,color2);
 ```
-
+-------
 
 Including in your project
 =========================
