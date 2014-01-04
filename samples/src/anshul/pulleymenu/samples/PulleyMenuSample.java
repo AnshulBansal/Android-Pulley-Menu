@@ -2,7 +2,7 @@ package anshul.pulleymenu.samples;
 
 import java.util.ArrayList;
 
-import net.anshul.pulleymenu.samples.R;
+import anshul.pulleymenu.R;
 
 
 import android.app.Activity;

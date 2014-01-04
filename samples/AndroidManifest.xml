@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="net.anshul.pulleymenu.samples"
+    package="anshul.pulleymenu"
     android:versionCode="1"
     android:versionName="1.0">
 
@@ -14,7 +14,7 @@
         android:theme="@style/SampleTheme">
 
         <activity
-            android:name="net.anshul.pulleymenu.samples.PulleyMenuSample"
+            android:name="anshul.pulleymenu.samples.PulleyMenuSample"
             android:theme="@style/SampleTheme.TopDrawer">
              <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

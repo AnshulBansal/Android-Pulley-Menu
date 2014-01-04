@@ -51,4 +51,6 @@ Credits
 
  * Cyril Mottier for his [articles][1] on the pattern
  * Simon VT for his library Android menu Drawer
+[1]: http://android.cyrilmottier.com/?p=658
+
 
