@@ -9,14 +9,17 @@ Usage
 =====
 
 This library is very simple to use. It requires no extension of custom classes,
-it's simply added to an activity by calling one the method  PulleyMenu(Context,ParentView,Menuview,Normal Background Color,Highlighted Color)`
+it's simply added to an activity by calling the method  
+
+PulleyMenu(Context,ParentView,Menuview,Normal Background Color,Highlighted Color)`
 methods.
 
 For examples on how to use this library, check out the sample app.
 
 
-Sample Call 
----------
+Sample Call
+-------
+```java
 	final ListView menuview = new ListView(this);
 		menuview.setPadding(0, 30 , 0, 0);
 
