@@ -72,10 +72,6 @@ TextView tvtimer;
 		// TODO Auto-generated method stub
 		final ListView menuview = new ListView(this);
 		menuview.setPadding(0, 30 , 0, 0);
-
-		// ListView menuview = new ListView(this);
-		// String[] collection = new String[] { " First", " Second", " Third",
-		// " Fourth", " Fifth", " Sixth"}
 		ArrayList<String> list = new ArrayList<String>();
 		list.add("Start");
 		list.add("Stop");

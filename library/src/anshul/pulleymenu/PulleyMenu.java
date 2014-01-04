@@ -15,7 +15,18 @@ public class PulleyMenu {
 	MenuDrawer mMenuDrawer;
 	int localpx;
 	int index;
-
+	/**
+	 * Calls the Pulley Menu.
+	 * 
+	 * This Method also calls the SetContentView so no need to call it again 
+	 * 
+	 * 
+	 * @param  Activity      The Activity to attach with
+	 * @param  Contentview   Id of the Content View
+	 * @param  menuview      ListView of the menu
+	 * @param  Color1        The Color When a Option is Highlighted
+	 * @param  Color2        The normal Backgroud Color
+	 */
 	public PulleyMenu(Activity activity, int Contentview,
 			final ListView menuview, final int color1, final int color2) {
 		context = activity;
