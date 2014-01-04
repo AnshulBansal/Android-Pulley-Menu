@@ -1,8 +1,9 @@
-﻿MenuDrawer
+﻿Android Pulley Menu
 ==========
 
-Pulley menu is a traditional Menu alternate which allows user to select any option for an activity intuitively. The menu is revealed by dragging the screen downwards and in that gesture user can also select any of the options. 
-
+Pulley menu is an alternate to traditional Menu which allows user to select any option for an activity intuitively. The menu is revealed by dragging the screen downwards and in that gesture user can also select any of the options. 
+ 
+Demo of pulley menu on a Stopwatch Application – [Pulley Menu Demo][2] 
 
 
 Usage
@@ -23,9 +24,6 @@ Sample Call
 	final ListView menuview = new ListView(this);
 		menuview.setPadding(0, 30 , 0, 0);
 
-		// ListView menuview = new ListView(this);
-		// String[] collection = new String[] { " First", " Second", " Third",
-		// " Fourth", " Fifth", " Sixth"}
 		ArrayList<String> list = new ArrayList<String>();
 		list.add("Start");
 		list.add("Stop");
@@ -52,5 +50,5 @@ Credits
  * Cyril Mottier for his [articles][1] on the pattern
  * Simon VT for his library Android menu Drawer
 [1]: http://android.cyrilmottier.com/?p=658
-
+[2]: https://play.google.com/store/apps/details?id=net.anshul.pulleymenu.samples
 
