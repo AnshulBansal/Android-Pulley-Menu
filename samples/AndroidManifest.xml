@@ -23,16 +23,7 @@
             </intent-filter>
           
         </activity>
-        <activity
-            android:name="SamplesActivity"
-            android:label="Pulley Menu"
-            android:launchMode="singleTop">
-            <intent-filter>
-                <action android:name="android.intent.action.MAINlunch" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
+      
        
           </application>
 
