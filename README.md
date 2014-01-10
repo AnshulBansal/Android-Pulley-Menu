@@ -5,7 +5,7 @@ Pulley menu is an alternate to traditional Menu which allows user to select any 
 
 This Libraray has been implemented in the following android applications :-
 
-Demo of pulley menu on a Stopwatch Application – [Pulley Menu Demo][2] 
+[Pulley Menu Demo][2] 
 
 
 Please drop a mail at ans_hul_1994@yahoo.co.in if you are using it in your application so that it can be listed here.
