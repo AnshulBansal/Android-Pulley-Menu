@@ -47,12 +47,15 @@ Including in your project
 =========================
 
 Include it in your project as an android library project.
+Please take care of the following points:-
+
+1. The target build should be kept at Android 4.0 though it will work with previous versions too
 
 Credits
 =======
 
  * Cyril Mottier for his [articles][1] on the pattern
- * Simon VT for his library Android menu Drawer
+ * Simon VT for his library [Android menu Drawer][3]
 
 
 License
@@ -75,4 +78,4 @@ License
 
 [1]: http://android.cyrilmottier.com/?p=658
 [2]: https://play.google.com/store/apps/details?id=net.anshul.pulleymenu.samples
-
+[3]: https://github.com/SimonVT/android-menudrawer
