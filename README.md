@@ -3,12 +3,22 @@
 
 Pulley menu is an alternate to traditional Menu which allows user to select any option for an activity intuitively. The menu is revealed by dragging the screen downwards and in that gesture user can also select any of the options. 
 
+
 This Libraray has been implemented in the following android applications :-
 
 [Pulley Menu Demo][2] 
 
 
 Please drop a mail at ans_hul_1994@yahoo.co.in if you are using it in your application so that it can be listed here.
+
+
+ScreenShots
+=====
+
+![Alt text](https://lh4.ggpht.com/kn6a9FJ0ywIQfhOEfa-pCDgT55O-RzPaq2Ht6AEBgTvK6K0avsAZf7Tnteopt7xrnhg=h310-rw ) 
+....
+![Alt text](https://lh5.ggpht.com/jX2cyhj39Pk2Qr0PM8sY6LkLvOA-w6wDiyVfIgjc7Jrt-332PO63GYa7tRIXYflUKg=h310-rw ).....
+![Alt text](https://lh6.ggpht.com/ekTeiHHF77VIqCKU7QCOgMnzsEubGd0PZ4ZqSIIQIdpoVOwhljintGkoXalL4GbS1hpF=h310-rw )
 
 Usage
 =====
