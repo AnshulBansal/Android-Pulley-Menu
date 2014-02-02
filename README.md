@@ -64,7 +64,7 @@ Please take care of the following points:-
 Credits
 =======
 
- * Cyril Mottier for his [articles][1] on the pattern
+ * Cyril Mottier for his [articles][1] on this pattern
  * Simon VT for his library [Android menu Drawer][3]
 
 
